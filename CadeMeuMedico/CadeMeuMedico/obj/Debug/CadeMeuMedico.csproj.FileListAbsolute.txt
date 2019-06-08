@@ -44,3 +44,7 @@ c:\users\felipe\documents\visual studio 2015\Projects\CadeMeuMedico\CadeMeuMedic
 c:\users\felipe\documents\visual studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Mvc.xml
 c:\users\felipe\documents\visual studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.dll
 c:\users\felipe\documents\visual studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.SqlServer.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.xml
+C:\Users\Felipe\documents\visual studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.SqlServer.xml
