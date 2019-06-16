@@ -177,6 +177,7 @@
     <Content Include="Models\ModeloDeDados.edmx.diagram">
       <DependentUpon>ModeloDeDados.edmx</DependentUpon>
     </Content>
+    <Content Include="App_Code\BannersPublicitarios.cshtml" />
     <None Include="scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="scripts\jquery-1.10.2.js" />
     <Content Include="scripts\jquery-1.10.2.min.js" />
@@ -199,6 +200,8 @@
     <Content Include="scripts\umd\popper-utils.min.js" />
     <Content Include="scripts\umd\popper.js" />
     <Content Include="scripts\umd\popper.min.js" />
+    <Content Include="Uploads\Banners\banner-cdc-cademeumedico.png" />
+    <Content Include="Uploads\Banners\logo-conio-cademeumedico.png" />
     <Content Include="Web.config" />
     <Content Include="scripts\umd\popper.min.js.map" />
     <Content Include="scripts\umd\popper.js.map" />
@@ -224,6 +227,9 @@
     <Compile Include="Controllers\TesteLayoutController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\BannersPublicitarios.cs">
+      <DependentUpon>ModeloDeDados.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\CidadeMetadado.cs" />
     <Compile Include="Models\Cidades.cs">
