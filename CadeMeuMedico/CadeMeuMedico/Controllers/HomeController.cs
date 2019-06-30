@@ -6,8 +6,14 @@ using System.Web.Mvc;
 
 namespace CadeMeuMedico.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
+        public ActionResult Login()
+        {
+            ViewBag.Title = "Seja bem vindo(a)";
+            return View();
+        }
+
         // GET: Home
         public ActionResult Index()
         {            

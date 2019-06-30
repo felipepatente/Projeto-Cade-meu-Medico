@@ -9,7 +9,7 @@ using System.Data.Entity;
 
 namespace CadeMeuMedico.Controllers
 {
-    public class CidadesController : Controller
+    public class CidadesController : BaseController
     {
         private EntidadesCadeMeuMedicoBD db = new EntidadesCadeMeuMedicoBD();
 
